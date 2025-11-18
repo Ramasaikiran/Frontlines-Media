@@ -49,13 +49,14 @@ The app will be available at:
 👉 http://localhost:5173
 
 📂 Project Structure
-'''
+
+```
 Frontlines-Media/
 │
 └── frontend/                    # Main React project
     ├── public/                  # Static assets
     ├── src/
-    │   ├──    fetchCompanies.ts              
+    │   ├──   fetchCompanies.ts              
     │   ├── components/          # UI components
     │   │   ├── CompanyCard.tsx
     │   │   ├── Filters.tsx
@@ -68,7 +69,7 @@ Frontlines-Media/
     ├── package.json             # Dependencies & scripts
     ├── index.html               # HTML template
     └── vite.config.ts           # Vite configuration
-    '''
+   ```
 
 ⚙️ How It Works
 
