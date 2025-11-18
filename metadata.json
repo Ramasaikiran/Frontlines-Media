@@ -1,0 +1,5 @@
+{
+  "name": "Companies Directory",
+  "description": "A responsive React application that displays company data with robust filtering, sorting, and pagination. Users can search for companies, filter by location and industry, and toggle between card and table views.",
+  "requestFramePermissions": []
+}
